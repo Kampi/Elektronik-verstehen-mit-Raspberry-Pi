@@ -1,4 +1,14 @@
-# Rheinwerk-Verlag
+# Elektronik verstehen mit Raspberry Pi
+
+## Benötigte Pakete
+Zum Ausführen der Python-Programme werden die folgenden Pakete benötigt:
+- smbus
+- serial
+- RPi.GPIO
+- spidev
+
+Alle Programme sind für Python 3 geschrieben.
+Die Module können über `sudo apt-get install python3-smbus python3-serial python3-rpi.gpio python3-spidev` installiert werden.
 
 ## Errata
 - S. 32
